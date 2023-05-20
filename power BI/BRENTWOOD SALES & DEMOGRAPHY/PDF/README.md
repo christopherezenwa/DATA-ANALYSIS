@@ -1,1 +1,1 @@
-This is a demography performance analysis i did with a dataset from kaggle. Before deriving my insights i identified the primary and foreign keys in order to create an accurate data model that helped me understand how the business was operating.
+This is a demography performance analysis i did with a dataset from kaggle. Before deriving my insights i identified the primary and foreign keys in order to create an accurate data model that helped me understand how the business was operating. i also used dax to create measures based on the problem statement
